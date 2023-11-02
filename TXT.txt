@@ -1,0 +1,41 @@
+-error handling
+	>error handling class
+	>async error
+	>unhandled promise rejection
+	>uncaught errors
+	>cast error
+-search filter pagination
+	search
+	filter (filter of category)
+	price range (price range of products)
+	pagination (to show number of products on the page)d
+	
+-Backend user and Password Authentication
+[npm i bcryptjs jsonwebtoken validator nodemailer cookie-parser body-parser]
+	User registration
+	user login
+	reset password 
+		(resetTokenGeneration)
+		(forgot password,)
+		(sending mail),
+		(resetting password)
+
+Backend user products APIs
+	Get user details
+	change password
+	update profile
+	
+	Admin route
+		1)Get all users
+		2)Get single user
+		3)updateUserRole
+		4)Delete user
+	Create or update reviews
+	
+Order API
+	create order
+	get logged in user orders
+	get single order
+	get all orders --admin
+	order status update --admin
+	delete order
