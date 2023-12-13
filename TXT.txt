@@ -39,3 +39,7 @@ Order API
 	get all orders --admin
 	order status update --admin
 	delete order
+	
+FRONTEND
+	Header
+	Footer	
